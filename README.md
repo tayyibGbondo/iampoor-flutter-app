@@ -1,4 +1,4 @@
-# iampoor
+# iampoor a community for the poor lol
 
 A new Flutter project.
 
